@@ -50,9 +50,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   제 이름은 한국 입니다.
 
-  usable languages : <mark>Java</mark>, <mark>python</mark>, <mark>c++/c</mark>,<mark>Java Scripte</mark>, <mark>HTML/CSS</mark>
-  usable frameworks: <mark>Java Spring</mark>
-  usable databases : <mark>MYSQL</mark>
+  usable languages : <mark>Java</mark>, <mark>python</mark>, <mark>c++/c</mark>,<mark>Java Scripte</mark>, <mark>HTML/CSS</mark> <br/>
+  usable frameworks: <mark>Java Spring</mark><br/>
+  usable databases : <mark>MYSQL</mark><br/>
 
 content:
   - title: Projects # Title for the section

@@ -50,7 +50,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   제 이름은 한국 입니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  usable languages : <mark>Java</mark>, <mark>python</mark>, <mark>c++/c</mark>,<mark>Java Scripte</mark>, <mark>HTML/CSS</mark>
+  usable frameworks: <mark>Java Spring</mark>
+  usable databases : <mark>MYSQL</mark>
 
 content:
   - title: Projects # Title for the section

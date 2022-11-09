@@ -108,9 +108,9 @@ content:
           저는 금융수학 분야에서 금융공학 과 <mark>선형대수</mark>, <mark>대수학</mark>, <mark>해석학</mark>, <mark>미분적분학</mark>, <mark>미분방정식</mark>,
           <mark>위상수학</mark>, <mark>확률론</mark>, <mark>수치해석</mark> 등을 공부 하였습니다.<br/>
           소프트웨어 공학 분야에서 <mark>데이터 베이스</mark>, <mark>운영체제</mark>, <mark>소프트웨어 공학</mark>, <mark>네트워크</mark>, <mark>컴퓨터 구조</mark> 등의 컴퓨터 과학 전반의 지식을 공부 하였습니다.
-    layout: list # Type of content section (list/text)
 
-    title: null
+  - title: null
+    layout: list
     content:
       - layout: left
         title: YGL Database basis AI and system engineer training Course

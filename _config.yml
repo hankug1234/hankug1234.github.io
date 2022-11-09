@@ -83,13 +83,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: -
-        link: -
+        title: null
+        link: null
         # link_text: boringcompany.com
-        sub_title: -
-        caption: -
-        quote: >
-          -
+        sub_title: null
+        caption: null
+        quote: > -
+
         description: | # this will include new lines to allow paragraphs
             -
 
@@ -100,7 +100,7 @@ content:
         title: Gachon University
         caption: 2016.03.01 - 2020.02.09
         sub_title: Mathematical finance/software engineering
-        quote: >-
+        quote: > -
           -
         description: | # this will include new lines to allow paragraphs
           -
@@ -108,10 +108,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      -
-      -
-      -
-      -
+      - null
+      - null
+      - null
+      - null
 
 # Footer
 footer_show_references: true

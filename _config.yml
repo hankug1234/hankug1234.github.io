@@ -89,7 +89,8 @@ content:
         # link_text: boringcompany.com
         sub_title: null
         caption: null
-        quote: > -
+        quote: >
+          comming soon
 
         description: | # this will include new lines to allow paragraphs
             -
@@ -101,8 +102,8 @@ content:
         title: Gachon University
         caption: 2016.03.01 - 2020.02.09
         sub_title: Mathematical finance/software engineering
-        quote: > -
-          -
+        quote: >
+          comming soon
         description: | # this will include new lines to allow paragraphs
           -comming soon
 

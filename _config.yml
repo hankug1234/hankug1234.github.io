@@ -101,7 +101,7 @@ content:
       - layout: left
         title: Gachon University
         caption: 2016.03.01 - 2020.02.09
-        sub_title: Mathematical finance / <br/>software engineering
+        sub_title: Mathematical finance <br/><span align="center">&</span><br/> software engineering
         quote: >
           comming soon
         description: | # this will include new lines to allow paragraphs

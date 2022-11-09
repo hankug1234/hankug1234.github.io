@@ -83,7 +83,7 @@ content:
     content:
       - layout: left
         title: undergraduate researche
-        link: https://sites.google.com/view/imeslab/alumni
+        link: <div>https://sites.google.com/view/imeslab/alumni</div>
         # link_text: boringcompany.com
         sub_title: paper researche and indestry project(e-cell) participate
         caption: 2019.03.01 - 2020.02.29
@@ -100,7 +100,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ARMY SERVICE IN 9TH DIVISION
+        title: ARMY SERVICE<br/>IN 9TH DIVISION
         link: null
         # link_text: boringcompany.com
         sub_title: military duty by rotc

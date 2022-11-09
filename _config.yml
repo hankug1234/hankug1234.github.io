@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  제 이름은 한국 입니다. 저는 1998년 생이며 현재 육군 중위로 전역후 IT취업 준비를 하고 있는 한 주제에 깊게 파고드는 끈기와 성실함이 있는 개발자 입니다.
+  제 이름은 한국 입니다. 저는 1998년 생이며 현재 육군 중위로 전역후 IT취업을 준비 하고있는 한 주제에 깊게 파고드는 끈기와 성실함이 있는 개발자 입니다.
   <br/>
   <br/>
   <br/>
@@ -105,26 +105,27 @@ content:
         quote: >
           I have dual major in methematical financce and software engineering and I interest in Mechine Learning
         description: | # this will include new lines to allow paragraphs
-          저는 금융수학 분야에서 금융공학 과 <mark>선형대수</mark>, <mark>대수학</mark>, <mark>해석학</mark>, <mark>미분적분학</mark>, <mark>미분방정식</mark>, <mark>위상수학</mark>, <mark>확률론</mark>, <mark>수치해석</mark> 등을 공부 햐였습니다.<br/>
+          저는 금융수학 분야에서 금융공학 과 <mark>선형대수</mark>, <mark>대수학</mark>, <mark>해석학</mark>, <mark>미분적분학</mark>, <mark>미분방정식</mark>,
+          <mark>위상수학</mark>, <mark>확률론</mark>, <mark>수치해석</mark> 등을 공부 하였습니다.<br/>
           소프트웨어 공학 분야에서 <mark>데이터 베이스</mark>, <mark>운영체제</mark>, <mark>소프트웨어 공학</mark>, <mark>네트워크</mark>, <mark>컴퓨터 구조</mark> 등의 컴퓨터 과학 전반의 지식을 공부 하였습니다.
 
-        layout: list # Type of content section (list/text)
-        content:
-          - layout: left
-            title: YGL Database basis AI and system engineer training Course
-            link: https://www.ycampus.co.kr/
-            # link_text: boringcompany.com
-            sub_title: government-funded education
-            caption: 2022.08.08 - 2023.01.14
-            quote: >
-              null
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: YGL Database basis AI and system engineer training Course
+        link: https://www.ycampus.co.kr/
+        # link_text: boringcompany.com
+        sub_title: government-funded education
+        caption: 2022.08.08 - 2023.01.14
+        quote: >
+          null
 
-            description: |
-                YGL에서 국비교육으로 진행하는 AI 교육을 수강 하였으며 수업을 수강하며
-                <br/>data preprocess :<mark>데이터 정규화</mark>, <mark>결측치 처리</mark>, <mark>one-hot-encoding</mark>, <mark>PCA</mark>, <mark>image process</mark>
-                <br/>neural network : <mark>DNN</mark>, <mark>CNN</mark>, <mark>RNN</mark>, <mark>LSTM</mark>, <mark>GAN</mark>
-                <br/>traditional mechine learing : <mark>random forest</mark>, <mark>decision tree</mark>, <mark>linear regression</mark>, <mark>logistic regression</mark>, <mark>svm</mark>, <mark>knn</mark>
-                <br>등을 공부 하였습니다
+        description: |
+            YGL에서 국비교육으로 진행하는 AI 교육을 수강 하였으며 수업을 수강하며
+            <br/>data preprocess :<mark>데이터 정규화</mark>, <mark>결측치 처리</mark>, <mark>one-hot-encoding</mark>, <mark>PCA</mark>, <mark>image process</mark>
+            <br/>neural network : <mark>DNN</mark>, <mark>CNN</mark>, <mark>RNN</mark>, <mark>LSTM</mark>, <mark>GAN</mark>
+            <br/>traditional mechine learing : <mark>random forest</mark>, <mark>decision tree</mark>, <mark>linear regression</mark>, <mark>logistic regression</mark>, <mark>svm</mark>, <mark>knn</mark>
+            <br>등을 공부 하였습니다.
 
   - title: A Little More About Me
     layout: text

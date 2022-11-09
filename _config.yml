@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  제 이름은 한국 입니다.
+  제 이름은 한국 입니다. 저는 1998년 생이며 현재 육군 중위로 전역후 IT취업 준비를 하고 있으며 한 주제에 깊게 파고드는 끈기와 성실함이 있는 개발자 입니다.
   <br/>
   <br/>
   <br/>
@@ -101,19 +101,20 @@ content:
       - layout: left
         title: Gachon University
         caption: 2016.03.01 - 2020.02.09
-        sub_title: Mathematical finance <br/><div style="text-align:cneter">&</div><br/> software engineering
+        sub_title: Mathematical finance <br/><span style="text-align:cneter">&</span><br/> software engineering
         quote: >
-          comming soon
+          I have dual major in methematical financce and software engineering
         description: | # this will include new lines to allow paragraphs
-          -comming soon
+          저는 금융수학 분야에서 금융공학 과 선형대수, 대수학, 해석학, 미분적분학, 미분방정식, 위상수학, 확률론, 수치해석 등을 공부하였으며<br/>
+          소프트웨어 공학 분야에서 데이터 베이스, 운영체제, 소프트웨어 공학, 네트워크, 컴퓨터 구조 등의 컴퓨터 과학 전반의 지식을 공부 하였습니다.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - null
-      - null
-      - null
-      - null
+      저의 취미는 영화감상 및 독서 입니다 주말에는 주로 아래와 같은 활동으로 시간을 보냅니다.
+      - 독서 : 요즘 범주론 데이터 중심 어플리케이션 설계 책을 읽고 있습니다.
+      - 운동 : 간단한 조깅과 턱걸이를 주로 합니다.
+      - 영화 : 느와르 장르를 좋아 합니다.
 
 # Footer
 footer_show_references: true

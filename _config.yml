@@ -76,7 +76,7 @@ content:
         quote: >
           This is my developing history log, I want to make more exciting and useful projects
         description: | # this will include new lines to allow paragraphs
-        null
+          -comming soon
 
 
 
@@ -104,7 +104,7 @@ content:
         quote: > -
           -
         description: | # this will include new lines to allow paragraphs
-          -
+          -comming soon
 
   - title: A Little More About Me
     layout: text

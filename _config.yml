@@ -76,7 +76,8 @@ content:
         quote: >
           This is my developing history log, I want to make more exciting and useful projects
         description: | # this will include new lines to allow paragraphs
-        empty
+        null
+
 
 
   - title: Experience # Title for the section

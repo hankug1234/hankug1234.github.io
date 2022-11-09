@@ -76,44 +76,62 @@ content:
         quote: >
           This is my developing history log, I want to make more exciting and useful projects
         description: | # this will include new lines to allow paragraphs
-          -comming soon
-
-
+          -
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: null
+        title: undergraduate researche
+        link: https://sites.google.com/view/imeslab/alumni
+        # link_text: boringcompany.com
+        sub_title: paper researche and indestry project(e-cell) participate
+        caption: 2019.03.01 - 2020.02.29
+        quote: >
+          smat crosswork project by e-cell and imeslab
+        description: | # this will include new lines to allow paragraphs
+          2019.03.01 - 2020.02.29 까지 산학협력의 일환으로 고양시 교통기기 하드웨어 기업은 e-cell과 smart 횡단 보도 개발 협력 진행 <br/>
+          담당 업무: <mark>image calibration</mark>, <mark>tracking module developing</mark>, <mark>test asistent</mark> <br/>
+          calibration module: opencv, numpy를 활용하여 python 기반 calibration module 개발  <br/>
+          traking module    : yolo를 활용한 object detection 결과를 이용하여 sort traking algorithm을 활용한 traking module 개발 <br/>
+
+            -
+  - title: null
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ARMY SERVICE IN 9TH DIVISION
         link: null
         # link_text: boringcompany.com
-        sub_title: null
-        caption: null
+        sub_title: military duty by rotc
+        caption: 2020.03.09 - 2022.06.30
         quote: >
-          comming soon
-
+          -
         description: | # this will include new lines to allow paragraphs
-            -
+            2020.03.09 - 2022.06.30 까지 파주 금촌시 9사단 28여단 2대대에서 장갑차 소대 소대장으로 근무하며 중간 관리자 역할과 소대 운영을 통해서 리더쉽과 친화력을 기를수 있었으며 2022.04 에 진행하였던
+            KTCT 과학화 훈련 당시에 2개 소대 병력으로 여단 통신거점 방어 임무를 수행하며 2개 중대 규모의 공세를 방어한 공로로 과학화 교육단 단장 표창을 받았으며 대대 정신전력 우수 교관 및 부대 관리 우수로 대대장 표창
+            2회 수훈 하였을 만큼 리더쉽 있고 열정적으로 복무 하였습니다
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Gachon University
+        link: https://www.gachon.ac.kr/
         caption: 2016.03.01 - 2020.02.09
         sub_title: Mathematical finance <br/><span style="text-align:cneter">&</span><br/> software engineering
         quote: >
           I have dual major in methematical financce and software engineering and I interest in Mechine Learning
         description: | # this will include new lines to allow paragraphs
           저는 금융수학 분야에서 금융공학 과 <mark>선형대수</mark>, <mark>대수학</mark>, <mark>해석학</mark>, <mark>미분적분학</mark>, <mark>미분방정식</mark>,
-          <mark>위상수학</mark>, <mark>확률론</mark>, <mark>수치해석</mark> 등을 공부 하였습니다.<br/>
+          <mark>위상수학</mark>, <mark>확률론</mark>, <mark>수치해석</mark> 등을 공부 하였습니다.<br/><br/>
           소프트웨어 공학 분야에서 <mark>데이터 베이스</mark>, <mark>운영체제</mark>, <mark>소프트웨어 공학</mark>, <mark>네트워크</mark>, <mark>컴퓨터 구조</mark> 등의 컴퓨터 과학 전반의 지식을 공부 하였습니다.
 
   - title: null
     layout: list
     content:
       - layout: left
-        title: YGL Database basis AI and system engineer training Course
+        title: YGL Database basis AI and system engineer training Course<br/>
         link: https://www.ycampus.co.kr/
         # link_text: boringcompany.com
         sub_title: government-funded education
@@ -122,7 +140,7 @@ content:
           -
         description: |
             YGL에서 국비교육으로 진행하는 AI 교육을 수강 하였으며 수업을 수강하며
-            <br/>data preprocess :<mark>데이터 정규화</mark>, <mark>결측치 처리</mark>, <mark>one-hot-encoding</mark>, <mark>PCA</mark>, <mark>image process</mark>
+            <br/>data preprocess : <mark>데이터 정규화</mark>, <mark>결측치 처리</mark>, <mark>one-hot-encoding</mark>, <mark>PCA</mark>, <mark>image process</mark>
             <br/>neural network : <mark>DNN</mark>, <mark>CNN</mark>, <mark>RNN</mark>, <mark>LSTM</mark>, <mark>GAN</mark>
             <br/>traditional mechine learing : <mark>random forest</mark>, <mark>decision tree</mark>, <mark>linear regression</mark>, <mark>logistic regression</mark>, <mark>svm</mark>, <mark>knn</mark>
             <br>등을 공부 하였습니다.

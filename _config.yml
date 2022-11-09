@@ -83,7 +83,7 @@ content:
     content:
       - layout: left
         title: undergraduate researche
-        link: <div>https://sites.google.com/view/imeslab/alumni</div>
+        link: <div>https://sites.google.com/<br/>view/imeslab/alumni</div>
         # link_text: boringcompany.com
         sub_title: paper researche and indestry project(e-cell) participate
         caption: 2019.03.01 - 2020.02.29

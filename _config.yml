@@ -150,7 +150,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       저의 취미는 영화감상 및 독서 입니다 주말에는 주로 아래와 같은 활동으로 시간을 보냅니다.
       - <mark>독서</mark> : 요즘 범주론 데이터 중심 어플리케이션 설계 책을 읽고 있습니다.
-      - <mark>운동</mark> : 간단한 조깅과 턱걸이를 주로 합니다.
+      - <mark>운동</mark> : 간단한 조깅과 턱걸이를 좋아아 합니다.
       - <mark>영화</mark> : 느와르 장르를 좋아 합니다.
 
 # Footer
